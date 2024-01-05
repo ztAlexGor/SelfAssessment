@@ -1,0 +1,59 @@
+﻿## Physics simulating in physics engine
+
+- Theory
+  - Mechanics:
+    - Newton's Laws of Motion 🖐️ used
+    - Linear motion and projectile motion 🖐️ used
+    - Angular motion and rotational dynamics 🖐️ used
+    - Forces, including gravitational, frictional, and applied forces 🖐️ used
+  - Kinematics:
+    - Position, velocity, and acceleration 🖐️ used
+    - Trajectories and paths 🖐️ used
+    - Integration for motion calculations 🖐️ used
+  - Collision Detection:
+    - Basic geometric primitives (points, lines, spheres, cubes) 📢 talked
+    - Broad-phase and narrow-phase collision detection 📢 talked
+    - AABB (Axis-Aligned Bounding Box) and bounding volume hierarchies 📢 talked
+  - Collision Resolution:
+    - Impulse and momentum 📢 talked
+    - Restitution and coefficient of restitution 📢 talked
+    - Response to collisions, including bouncing and friction 📢 talked
+  - Rigid Body Dynamics:
+    - Center of mass 🖐️ used
+    - Moment of inertia 🖐️ used
+    - Rotational kinematics and dynamics 🖐️ used
+  - Integration Methods:
+    - Euler integration 📢 talked
+    - Verlet integration 👂 heard
+    - Runge-Kutta methods 👂 heard
+    - Constraints and Joints:
+    - Mathematical representation of joints 👂 heard
+    - Constraint resolution 👂 heard
+    - Hinge joints, ball joints, and other types of joints 👂 heard
+  - Spatial Partitioning:
+    - Octrees and quadtrees 🖐️ used
+    - Spatial hashing 🎓 known
+    - Grids for spatial partitioning 🎓 known
+  - Continuous vs. Discrete Collision Detection:
+    - Handling fast-moving objects 🎓 known
+    - Swept-volume tests 👂 heard
+  - Numerical Stability:
+    - Dealing with numerical instability in simulations 📢 talked
+    - Stabilization techniques for long simulations 📢 talked
+  - Simulation Loop:
+    - The main loop structure for updating physics 🚀 constructed
+    - Time stepping and fixed time steps 🚀 constructed
+  - Optimization Techniques:
+    - Broad-phase and narrow-phase optimizations 🚀 constructed
+    - Parallel processing for multi-core systems 🚀 constructed
+    - Integration with Graphics: 🚀 constructed
+- Algorithms
+  - GJK 🚀 constructed
+  - SAT 🚀 constructed
+  - Euler integration 🚀 constructed
+  - AABB 🚀 constructed
+  - BVH-Tree 🚀 constructed
+  - Continuous Collision Detection 🚀 constructed
+  - Impulse Collision Resolution 🚀 constructed
+  - Sinking objects 🚀 constructed
+  - Sleeping objects 🚀 constructed

@@ -12,13 +12,13 @@
   - Generic programming 📢 talked
   - Concurrent computing 🙋 explained
   - Asyncronous programming 🙋 explained
-  - Parallel programming 🖐️ used
+  - Parallel programming 🙋 explained
   - Reactive programming 👂 heard
   - FRP (Functional-reactive) 👂 heard
   - Automata-based programming 👂 heard
-  - Domain-specific languages 👂 heard
+  - Domain-specific languages 🖐️ used
   - Multi-paradigm programming 🖐️ used
-  - Metaprogramming 👂 heard
+  - Metaprogramming 🖐️ used
   - Actor model 👂 heard
 - OOP basics
   - constructor 🙋 explained
@@ -37,30 +37,31 @@
   - Interface 🙋 explained
   - Encapsulation 🙋 explained
   - Hidden class 🙋 explained
-  - Object form 🎓 known
+  - Object form 🖐️ used
   - instance 🙋 explained
-  - Introspection 👂 heard
-  - Reflection 👂 heard
+  - Introspection 🖐️ used
+  - Reflection 🖐 used
 - Patterns
-  - Singleton 🙋 explained
-  - Factory Method 🖐️ used
-  - Abstract Factory 🖐️ used
-  - Adapter 🖐️ used
-  - Observer 🖐️ used
-  - Strategy 🖐️ used
-  - Facade 🖐️ used
-  - Proxy 🎓 known
-  - Chain of Responsibility 🖐️ used
-  - Command 🖐️ used
-  - Iterator 🖐️ used
-  - State 🖐️ used
-  - Bridge 🖐️ used
-  - Builder 🖐️ used
-  - Prototype 🎓 known
-  - Composite 🎓 known
-  - Decorator 🖐️ used
+  - Singleton 📢 talked
+  - Factory Method 📢 talked
+  - Abstract Factory 📢 talked
+  - Adapter 📢 talked
+  - Observer 📢 talked
+  - Strategy 📢 talked
+  - Facade 📢 talked
+  - Proxy 📢 talked
+  - Chain of Responsibility 📢 talked
+  - Command 📢 talked
+  - Iterator 📢 talked
+  - State 📢 talked
+  - Bridge 📢 talked
+  - Builder 📢 talked
+  - Prototype 📢 talked
+  - Composite 📢 talked
+  - Decorator 📢 talked
   - Flyweight 👂 heard
-  - Mediator 👂 heard
-  - Memento 👂 heard
-  - Template Method 👂 heard
-  - Visitor 👂 heard
+  - Mediator 📢 talked
+  - Memento 📢 talked
+  - Template Method 📢 talked
+  - Visitor 📢 talked
+  - CRTP 📢 talked
