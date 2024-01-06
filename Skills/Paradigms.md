@@ -1,4 +1,4 @@
-﻿## Multi-paradigm programming
+## Multi-paradigm programming
 
 - Theory
   - Procedural programming: 🙋 explained
@@ -25,7 +25,7 @@
   - new: 🙋 explained
   - Static method: 🙋 explained
   - Method: 🙋 explained
-  - Async method: 🖐 used
+  - Async method: 🖐️ used
   - Getters, Setters: 🙋 explained
   - Public fields: 🙋 explained
   - Private fields: 🙋 explained
@@ -40,7 +40,7 @@
   - Object form: 🖐️ used
   - instance: 🙋 explained
   - Introspection: 🖐️ used
-  - Reflection: 🖐 used
+  - Reflection: 🖐️ used
 - Patterns
   - Singleton: 📢 talked
   - Factory Method: 📢 talked

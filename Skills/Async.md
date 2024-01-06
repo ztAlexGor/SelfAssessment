@@ -1,11 +1,11 @@
-﻿## Asynchronous programming
+## Asynchronous programming
 
 - Theory
   - Event loop: 🎓 known
   - try..catch: 🙋 explained
   - Non-blocking: 🎓 known
   - Async I/O: 🖐️ used
-  - Thread poo:l🖐️ used
+  - Thread pool: 🖐️ used
   - Pattern Reactor
   - CAS operations: 🖐️ used
   - epoll
