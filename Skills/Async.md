@@ -1,45 +1,45 @@
 ﻿## Asynchronous programming
 
 - Theory
-  - Event loop 🎓 known
-  - try..catch 🙋 explained
-  - Non-blocking 🎓 known
-  - Async I/O 🖐️ used
-  - Thread pool🖐️ used
+  - Event loop: 🎓 known
+  - try..catch: 🙋 explained
+  - Non-blocking: 🎓 known
+  - Async I/O: 🖐️ used
+  - Thread poo:l🖐️ used
   - Pattern Reactor
-  - CAS operations 🖐️ used
+  - CAS operations: 🖐️ used
   - epoll
   - kqueue
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions 🙋 explained
-  - Dead locks 🙋 explained
+  - Race conditions: 🙋 explained
+  - Dead locks: 🙋 explained
   - Live locks
-  - Concurrent programming 🙋 explained
-  - Parallel programming 🙋 explained
+  - Concurrent programming: 🙋 explained
+  - Parallel programming: 🙋 explained
   - Actor Model
-  - Thread 🙋 explained
-  - Process 🙋 explained
+  - Thread: 🙋 explained
+  - Process: 🙋 explained
 - Async contracts
-  - Callbacks 🎓 known
+  - Callbacks: 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise 🖐️ used
-  - Async/await 🖐️ used
-  - Future 🖐️ used
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
+  - Future: 🖐️ used
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event 🖐️ used
-  - Coroutine 👂 heard
-  - Goroutine 👂 heard
+  - Event: 🖐️ used
+  - Coroutine: 👂 heard
+  - Goroutine: 👂 heard
   - Signal
-  - Stream 🖐️ used
-  - Chain of responsibility 🎓 known
+  - Stream: 🖐️ used
+  - Chain of responsibility: 🎓 known
   - Middleware
-  - Locks 🖐️ used
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -52,14 +52,14 @@
   - Readable
   - Writable
   - Transform
-  - Async Pool 🖐️ used
-  - Async Queue 🖐️ used
+  - Async Pool: 🖐️ used
+  - Async Queue: 🖐️ used
   - Async Collector
   - Semaphore
-  - Mutex 🖐️ used
+  - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers 🖐️ used
+  - Timers: 🖐️ used
   - setImmediate
   - nextTick
   - AbortController
@@ -67,8 +67,8 @@
   - Promise unhandled rejection
   - Promise double resolve
   - child_process
-  - worker_threads 🖐️ used
-  - Atomics 🖐️ used
+  - worker_threads: 🖐️ used
+  - Atomics: 🖐️ used
   - High resolution clock
   - Callback hell
   - Promise hell
