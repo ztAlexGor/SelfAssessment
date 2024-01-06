@@ -1,118 +1,118 @@
 ﻿## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 🙋 explained
-  - identifier 🙋 explained
-  - variable 🙋 explained
-  - constant 🙋 explained
-  - scalar 🙋 explained
-  - literal 🙋 explained
-  - expression 🙋 explained
-  - heap 🙋 explained
-  - function 🙋 explained
-  - procedure 🙋 explained
-  - method 🙋 explained
-  - class 🙋 explained
-  - prototype 🙋 explained
-  - event 🖐️ used
-  - type 🙋 explained
-  - primitive types 🙋 explained
-  - reference types 🙋 explained
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🙋 explained
+  - literal: 🙋 explained
+  - expression: 🙋 explained
+  - heap: 🙋 explained
+  - function: 🙋 explained
+  - procedure: 🙋 explained
+  - method: 🙋 explained
+  - class: 🙋 explained
+  - prototype: 🙋 explained
+  - event: 🖐️ used
+  - type: 🙋 explained
+  - primitive types: 🙋 explained
+  - reference types: 🙋 explained
   - flag
-  - lexical scope 🙋 explained
-  - code block 🙋 explained
-  - conditions 🙋 explained
-  - loops 🙋 explained
-  - assignment 🙋 explained
-  - regular expression 🙋 explained
-  - interface 🙋 explained
+  - lexical scope: 🙋 explained
+  - code block: 🙋 explained
+  - conditions: 🙋 explained
+  - loops: 🙋 explained
+  - assignment: 🙋 explained
+  - regular expression: 🙋 explained
+  - interface: 🙋 explained
   - contract
-  - module 🙋 explained
-  - call stack 🙋 explained
+  - module: 🙋 explained
+  - call stack: 🙋 explained
 - Functions
-  - signature 🙋 explained
-  - argument 🙋 explained
-  - parameter 🙋 explained
-  - pure function 🙋 explained
-  - lambda expression 🙋 explained
-  - side effects 🙋 explained
+  - signature: 🙋 explained
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
+  - pure function: 🙋 explained
+  - lambda expression: 🙋 explained
+  - side effects: 🙋 explained
   - closure
   - partial application
   - curry
   - higher order
-  - recursion 🙋 explained
-  - callback 🙋 explained
-  - listener 🙋 explained
-  - compose 🙋 explained
+  - recursion: 🙋 explained
+  - callback: 🙋 explained
+  - listener: 🙋 explained
+  - compose: 🙋 explained
   - pipe
   - memoize
-  - wrapper 🙋 explained
-  - functor 🙋 explained
+  - wrapper: 🙋 explained
+  - functor: 🙋 explained
   - monad
   - monoid
-  - generator 🙋 explained
-  - coroutine 🙋 explained
+  - generator: 🙋 explained
+  - coroutine: 🙋 explained
 - Data structures
-  - array 🙋 explained
-  - structure 🙋 explained
+  - array: 🙋 explained
+  - structure: 🙋 explained
   - record
-  - enum 🙋 explained
-  - instance 🙋 explained
-  - object 🙋 explained
-  - class 🙋 explained
-  - collection 🙋 explained
-  - set 🚀 constructed
-  - hash table 🚀 constructed
-  - linked list 🚀 constructed
-  - doubly list 🚀 constructed
+  - enum: 🙋 explained
+  - instance: 🙋 explained
+  - object: 🙋 explained
+  - class: 🙋 explained
+  - collection: 🙋 explained
+  - set: 🚀 constructed
+  - hash table: 🚀 constructed
+  - linked list: 🚀 constructed
+  - doubly list: 🚀 constructed
   - unrolled list
   - circular list
-  - queue 🚀 constructed
-  - stack 🚀 constructed
-  - deque 🚀 constructed
-  - tree 🚀 constructed
-  - graph 🚀 constructed
-  - iterator 🚀 constructed
-  - mutable state 🎓 known
-  - immutable state 🎓 known
-  - serialization 🚀 constructed
-  - string parsing 🚀 constructed
-  - pair 🚀 constructed
-  - map 🚀 constructed
-  - unorderedmap 🚀 constructed
-  - multimap 🚀 constructed
-  - AVL 🚀 constructed
-  - B-Tree 🚀 constructed
-  - Red-Black Tree 🚀 constructed
-  - BST 🚀 constructed
-  - BVH-Tree 🚀 constructed
+  - queue: 🚀 constructed
+  - stack: 🚀 constructed
+  - deque: 🚀 constructed
+  - tree: 🚀 constructed
+  - graph: 🚀 constructed
+  - iterator: 🚀 constructed
+  - mutable state: 🎓 known
+  - immutable state: 🎓 known
+  - serialization: 🚀 constructed
+  - string parsing: 🚀 constructed
+  - pair: 🚀 constructed
+  - map: 🚀 constructed
+  - unorderedmap: 🚀 constructed
+  - multimap: 🚀 constructed
+  - AVL: 🚀 constructed
+  - B-Tree: 🚀 constructed
+  - Red-Black Tree: 🚀 constructed
+  - BST: 🚀 constructed
+  - BVH-Tree: 🚀 constructed
 - Process & style
-  - compiler 🎓 known
-  - transpiler 🎓 known
-  - linter 🎓 known
+  - compiler: 🎓 known
+  - transpiler: 🎓 known
+  - linter: 🎓 known
   - polyfill
-  - debugger 🖐️ used
-  - garbage collection 🎓 known
-  - refactoring 🖐️ used
-  - code review 🖐️ used
-  - antipatterns 🎓 known
-  - paradigm 🙋 explained
-  - algorithm 🙋 explained
-  - magic numbers 🙋 explained
-  - hardcode 🙋 explained
-  - complexity 🙋 explained
-  - decomposition 🙋 explained
-  - spaghetti 🙋 explained
-  - silver bullet 🎓 known
-  - not invented here 🎓 known
-  - dead code 🎓 known
-  - unreachable code 🎓 known
-  - duplicate code 🎓 known
-  - exception 🙋 explained
-  - return early 🎓 known
-  - unittest 🖐️ used
-  - git 🙋 explained
-  - github 🙋 explained
-  - gitlab 🖐️ used
-  - SFINAE 🖐️ used
-  - RAII 🚀 constructed
+  - debugger: 🖐️ used
+  - garbage collection: 🎓 known
+  - refactoring: 🖐️ used
+  - code review: 🖐️ used
+  - antipatterns: 🎓 known
+  - paradigm: 🙋 explained
+  - algorithm: 🙋 explained
+  - magic numbers: 🙋 explained
+  - hardcode: 🙋 explained
+  - complexity: 🙋 explained
+  - decomposition: 🙋 explained
+  - spaghetti: 🙋 explained
+  - silver bullet: 🎓 known
+  - not invented here: 🎓 known
+  - dead code: 🎓 known
+  - unreachable code: 🎓 known
+  - duplicate code: 🎓 known
+  - exception: 🙋 explained
+  - return early: 🎓 known
+  - unittest: 🖐️ used
+  - git: 🙋 explained
+  - github: 🙋 explained
+  - gitlab: 🖐️ used
+  - SFINAE: 🖐️ used
+  - RAII: 🚀 constructed
