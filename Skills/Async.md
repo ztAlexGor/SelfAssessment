@@ -1,45 +1,45 @@
-﻿## Asynchronous programming
+## Asynchronous programming
 
 - Theory
   - Event loop: 🎓 known
-  - try..catch: 🖐️ used
+  - try..catch: 🙋 explained
   - Non-blocking: 🎓 known
-  - Async I/O: 🎓 known
+  - Async I/O: 🖐️ used
   - Thread pool: 🖐️ used
   - Pattern Reactor
-  - CAS operations
+  - CAS operations: 🖐️ used
   - epoll
   - kqueue
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions: 🎓 known
-  - Dead locks: 🎓 known
+  - Race conditions: 🙋 explained
+  - Dead locks: 🙋 explained
   - Live locks
-  - Concurrent programming: 🖐️ used
-  - Parallel programming: 🖐️ used
+  - Concurrent programming: 🙋 explained
+  - Parallel programming: 🙋 explained
   - Actor Model
-  - Thread: 🖐️ used
-  - Process: 🖐️ used
+  - Thread: 🙋 explained
+  - Process: 🙋 explained
 - Async contracts
-  - Callbacks
+  - Callbacks: 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise: 👂 heard
-  - Async/await: 👂 heard
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future: 🖐️ used
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
   - Event: 🖐️ used
-  - Coroutine
-  - Goroutine
+  - Coroutine: 👂 heard
+  - Goroutine: 👂 heard
   - Signal
-  - Stream: 🎓 known
-  - Chain of responsibility
+  - Stream: 🖐️ used
+  - Chain of responsibility: 🎓 known
   - Middleware
-  - Locks
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -52,14 +52,14 @@
   - Readable
   - Writable
   - Transform
-  - Async Pool: 🎓 known
-  - Async Queue: 🎓 known
+  - Async Pool: 🖐️ used
+  - Async Queue: 🖐️ used
   - Async Collector
   - Semaphore
-  - Mutex: 🎓 known
+  - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers: 🖐️ used
   - setImmediate
   - nextTick
   - AbortController
@@ -67,8 +67,8 @@
   - Promise unhandled rejection
   - Promise double resolve
   - child_process
-  - worker_threads
-  - Atomics
+  - worker_threads: 🖐️ used
+  - Atomics: 🖐️ used
   - High resolution clock
   - Callback hell
   - Promise hell

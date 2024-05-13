@@ -1,4 +1,4 @@
-﻿## Programming fundamental concepts
+## Programming fundamental concepts
 
 - Syntax and concepts
   - value: 🙋 explained
@@ -24,7 +24,7 @@
   - conditions: 🙋 explained
   - loops: 🙋 explained
   - assignment: 🙋 explained
-  - regular expression: 🖐️ used
+  - regular expression: 🙋 explained
   - interface: 🙋 explained
   - contract
   - module: 🙋 explained
@@ -51,7 +51,7 @@
   - monad
   - monoid
   - generator: 🙋 explained
-  - coroutine: 👂 heard
+  - coroutine: 🙋 explained
 - Data structures
   - array: 🙋 explained
   - structure: 🙋 explained
@@ -61,15 +61,15 @@
   - object: 🙋 explained
   - class: 🙋 explained
   - collection: 🙋 explained
-  - set: 🖐️ used
-  - hash table: 🖐️ used
-  - linked list: 🖐️ used
+  - set: 🚀 constructed
+  - hash table: 🚀 constructed
+  - linked list: 🚀 constructed
   - doubly list: 🚀 constructed
   - unrolled list
   - circular list
-  - queue: 🖐️ used
+  - queue: 🚀 constructed
   - stack: 🚀 constructed
-  - deque: 🖐️ used
+  - deque: 🚀 constructed
   - tree: 🚀 constructed
   - graph: 🚀 constructed
   - iterator: 🚀 constructed
@@ -78,35 +78,41 @@
   - serialization: 🚀 constructed
   - string parsing: 🚀 constructed
   - pair: 🚀 constructed
-  - map: 🖐️ used
-  - unorderedmap: 🎓 known
-  - multimap: 🎓 known
+  - map: 🚀 constructed
+  - unorderedmap: 🚀 constructed
+  - multimap: 🚀 constructed
   - AVL: 🚀 constructed
+  - B-Tree: 🚀 constructed
+  - Red-Black Tree: 🚀 constructed
   - BST: 🚀 constructed
+  - BVH-Tree: 🚀 constructed
 - Process & style
   - compiler: 🎓 known
   - transpiler: 🎓 known
-  - linter: 👂 heard
+  - linter: 🎓 known
   - polyfill
   - debugger: 🖐️ used
-  - garbage collection
+  - garbage collection: 🎓 known
   - refactoring: 🖐️ used
-  - code review: 👂 heard
-  - antipatterns
+  - code review: 🖐️ used
+  - antipatterns: 🎓 known
   - paradigm: 🙋 explained
   - algorithm: 🙋 explained
-  - magic numbers: 🖐️ used
-  - hardcode: 🎓 known
+  - magic numbers: 🙋 explained
+  - hardcode: 🙋 explained
   - complexity: 🙋 explained
-  - decomposition: 🎓 known
-  - spaghetti: 🎓 known
+  - decomposition: 🙋 explained
+  - spaghetti: 🙋 explained
   - silver bullet: 🎓 known
   - not invented here: 🎓 known
   - dead code: 🎓 known
   - unreachable code: 🎓 known
   - duplicate code: 🎓 known
-  - exception: 🖐️ used
+  - exception: 🙋 explained
   - return early: 🎓 known
   - unittest: 🖐️ used
   - git: 🙋 explained
-  - github: 🖐️ used
+  - github: 🙋 explained
+  - gitlab: 🖐️ used
+  - SFINAE: 🖐️ used
+  - RAII: 🚀 constructed
