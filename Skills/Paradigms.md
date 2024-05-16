@@ -46,7 +46,7 @@
   - Object form: 🖐️ used
   - Instance: 🙋 explained
   - Introspection: 🖐️ used
-  - Reflection: 🖐️ use
+  - Reflection: 🖐️ use 👉 Warning: not matching level and emoji
   - The diamond problemd
 - GRASP
   - Information expert

@@ -1,4 +1,3 @@
-﻿## Databases
 
 - Theory and concepts
   - Data types
