@@ -20,12 +20,12 @@
   - Multi-paradigm programming: 🖐️ used
   - Metaprogramming: 🖐️ used
   - Actor model: 👂 heard
-  - Lambda calculus
-  - Black box
-  - Information hiding
+  - Lambda calculus: 🖐️ used
+  - Black box: 🖐️ used
+  - Information hiding: 👂 heard
   - Aspect-oriented programming
-  - Anemic domain model
-  - Class composition
+  - Anemic domain model: 👂 heard
+  - Class composition: 🖐️ used
 - OOP basics
   - Constructor: 🙋 explained
   - Operator `new`: 🙋 explained
@@ -46,23 +46,23 @@
   - Object form: 🖐️ used
   - Instance: 🙋 explained
   - Introspection: 🖐️ used
-  - Reflection: 🖐️ use 👉 Warning: not matching level and emoji
-  - The diamond problemd
+  - Reflection: 🖐️ used
+  - The diamond problemd: 🖐️ used
 - GRASP
-  - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
-  - High cohesion
-  - Protected variations
-  - Pure fabrication
+  - Information expert: 👂 heard
+  - Creator: 👂 heard
+  - Controller: 👂 heard
+  - Indirection: 👂 heard
+  - Low coupling: 👂 heard
+  - High cohesion: 👂 heard
+  - Protected variations: 👂 heard
+  - Pure fabrication: 👂 heard
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP): 🙋 explained
+  - Open–closed principle (OCP): 🙋 explained
+  - Liskov substitution principle (LSP): 🙋 explained
+  - Interface segregation principle (ISP): 🙋 explained
+  - Dependency inversion principle (DIP): 🙋 explained
 - Patterns
   - Singleton: 📢 talked
   - Factory Method: 📢 talked
@@ -86,7 +86,7 @@
   - Memento: 📢 talked
   - Template Method: 📢 talked
   - Visitor: 📢 talked
-  - Reactor
-  - Active object
-  - Delegation
+  - Reactor: 👂 heard
+  - Active object: 👂 heard
+  - Delegation: 👂 heard
   - CRTP: 📢 talked
